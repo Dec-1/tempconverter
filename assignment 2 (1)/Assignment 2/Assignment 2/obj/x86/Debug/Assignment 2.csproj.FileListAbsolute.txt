@@ -1,0 +1,18 @@
+C:\Users\User\Documents\College Work\Unit 16 programs\Assignment 2\Assignment 2\obj\x86\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\College Work\Unit 16 programs\Assignment 2\Assignment 2\bin\Debug\Program.cs
+C:\Users\User\Documents\College Work\Unit 16 programs\Assignment 2\Assignment 2\bin\Debug\Properties\AssemblyInfo.cs
+C:\Users\User\Documents\College Work\Unit 16 programs\Assignment 2\Assignment 2\bin\Debug\Assignment 2.dll
+C:\Users\User\Documents\College Work\Unit 16 programs\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\User\Documents\College Work\Unit 16 programs\Assignment 2\Assignment 2\obj\x86\Debug\Assignment 2.dll
+C:\Users\User\Documents\College Work\Unit 16 programs\Assignment 2\Assignment 2\obj\x86\Debug\Assignment 2.pdb
+C:\Users\User\Downloads\assignment 2 (1)\Assignment 2\Assignment 2\obj\x86\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\assignment 2 (1)\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\User\Downloads\assignment 2 (1)\Assignment 2\Assignment 2\bin\Debug\Program.cs
+C:\Users\User\Downloads\assignment 2 (1)\Assignment 2\Assignment 2\bin\Debug\Properties\AssemblyInfo.cs
+C:\Users\User\Downloads\assignment 2 (1)\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\User\Downloads\assignment 2 (1)\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\User\Downloads\assignment 2 (1)\Assignment 2\Assignment 2\obj\x86\Debug\Assignment 2.exe
+C:\Users\User\Downloads\assignment 2 (1)\Assignment 2\Assignment 2\obj\x86\Debug\Assignment 2.pdb
+C:\Users\User\Downloads\assignment 2 (1)\Assignment 2\Assignment 2\obj\x86\Debug\Assignment_2.Form2.resources
+C:\Users\User\Downloads\assignment 2 (1)\Assignment 2\Assignment 2\obj\x86\Debug\Assignment_2.Properties.Resources.resources
+C:\Users\User\Downloads\assignment 2 (1)\Assignment 2\Assignment 2\obj\x86\Debug\Assignment 2.csproj.GenerateResource.Cache
